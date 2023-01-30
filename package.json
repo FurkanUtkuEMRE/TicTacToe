@@ -8,8 +8,8 @@
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
-  "name": "wjwuw8",
-  "description": null,
+  "name": "tic-tac-toe",
+  "description": "Tic Tac Toe Package",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
